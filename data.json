@@ -89,21 +89,21 @@
             "foto": "https://img.freepik.com/free-photo/view-delicious-food-from-around-world_23-2151596552.jpg",
             "nama": "Croissant",
             "harga": "15.000",
-            "size": "150 ml",
+            "size": "Pieces",
             "link": "#"
         },
         {
             "foto": "https://img.freepik.com/free-photo/high-angle-delicious-spanish-tortilla-still-life_23-2150246005.jpg",
             "nama": "Roti Bakar",
             "harga": "10.000",
-            "size": "100 ml",
+            "size": "Pieces",
             "link": "#"
         },
         {
             "foto": "https://img.freepik.com/free-photo/chocolate-chip-cookies-isolated-white-background-ai-generative_123827-24072.jpg",
             "nama": "Cookies",
             "harga": "10.000",
-            "size": "100 ml",
+            "size": "Pieces",
             "link": "#"
         },
         {
