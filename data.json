@@ -1,0 +1,110 @@
+{
+    "Arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "Robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Kopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/latte-coffee-cup_74190-1194.jpg",
+            "nama": "Cappuccino",
+            "harga": "25.000",
+            "size": "150 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/ice-vanilla-healthy-cup-hot_1286-298.jpg",
+            "nama": "Espresso",
+            "harga": "15.000",
+            "size": "100 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/mixing-glass-with-frappucino_23-2148937301.jpg",
+            "nama": "Kopi Susu",
+            "harga": "20.000",
+            "size": "100 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/glass-cup-latte-with-latte-art-cafeteria_23-2148209233.jpg",
+            "nama": "Coffee Latte",
+            "harga": "30.000",
+            "size": "100 ml",
+            "link": "#"
+        }
+    ],
+    "Teh": [
+        {
+            "foto": "https://img.freepik.com/free-photo/arrangement-with-tasty-drink-lime-slice_23-2148437040.jpg",
+            "nama": "Teh Melati",
+            "harga": "25.000",
+            "size": "150 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/frappe-glass-slices-bread-with-seeds_23-2148623233.jpg",
+            "nama": "Teh Susu",
+            "harga": "15.000",
+            "size": "100 ml",
+            "link": "#"
+        }
+    ],
+    "Cemilan": [
+        {
+            "foto": "https://img.freepik.com/free-photo/view-delicious-food-from-around-world_23-2151596552.jpg",
+            "nama": "Croissant",
+            "harga": "15.000",
+            "size": "150 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/high-angle-delicious-spanish-tortilla-still-life_23-2150246005.jpg",
+            "nama": "Roti Bakar",
+            "harga": "10.000",
+            "size": "100 ml",
+            "link": "#"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/chocolate-chip-cookies-isolated-white-background-ai-generative_123827-24072.jpg",
+            "nama": "Cookies",
+            "harga": "10.000",
+            "size": "100 ml",
+            "link": "#"
+        }
+    ]
+}
